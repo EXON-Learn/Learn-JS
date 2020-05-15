@@ -1,14 +1,13 @@
 body {
     background-color: #ffffff;
+    color: #ffffff;
+    font-family:"돋움";
 }
   
 .btn {
     cursor: pointer;
 }
 
-body {
-    color: #ffffff;
-}
 
 .clicked {
     color: #7f8c8d;
@@ -17,10 +16,12 @@ body {
 .form,
 .greetings {
     display: none;
+    text-align: center;
 }
 
 #clock { 
-
+	font-size: 200px;
+    text-align: center;
 }
 
 .showing {
