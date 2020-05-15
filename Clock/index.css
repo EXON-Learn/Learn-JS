@@ -19,7 +19,7 @@ body {
     display: none;
 }
 
-#clock {
+#clock { 
 
 }
 
@@ -27,7 +27,7 @@ body {
     display: block;
 }
 
-@keyframes fadeIn {
+@keyframes fadeIn { 
     from {
         opacity: 0;
     }
