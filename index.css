@@ -17,11 +17,16 @@ body {
 .greetings {
     display: none;
     text-align: center;
+    position: relative;
+    top: 50px;
+
 }
 
 #clock { 
 	font-size: 200px;
     text-align: center;
+    position: relative;
+    top: 50px;
 }
 
 .showing {
